@@ -1,0 +1,1 @@
+ 'ctrl' l 'ctrl'  'shift'  'delete'  'ctrl' --= 'ctrl'  'shift' b 'left_window_key'  'left_window_key'  'left_window_key' 

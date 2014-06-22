@@ -1,0 +1,1 @@
+shivanis 'enter'  'left_window_key' ss 'enter'  'ctrl' ===a 'backspace' s

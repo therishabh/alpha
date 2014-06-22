@@ -1,0 +1,1 @@
+ 'ctrl' l 'ctrl' l 'alt'  'right_arrow'  'ctrl' l 'ctrl' l 'ctrl'  'ctrl' l

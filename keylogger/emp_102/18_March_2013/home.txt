@@ -1,0 +1,1 @@
+ 'ctrl' l 'ctrl'  'ctrl' l 'ctrl' l 'ctrl'  'left_window_key'  'ctrl' l 'ctrl' l 'ctrl' k 'ctrl' l 'ctrl' l 'ctrl' ; 'ctrl' l 'ctrl' l
